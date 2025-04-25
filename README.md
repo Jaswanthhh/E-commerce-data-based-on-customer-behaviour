@@ -16,11 +16,11 @@ This project leverages synthetic e-commerce data to perform end-to-end customer 
 
 ## 📁 Project Structure
 
-├── app.ipynb # Dash web app integrating ML outputs and visualizations
-├── E-COMMERCE DATA ... .ipynb # Notebook for dataset generation and ML experimentation
-├── ecommerce_dataset.csv # Generated synthetic dataset with intentional inconsistencies
-├── preprocessed_ecommerce_dataset.csv (optional) # Cleaned dataset (if saved separately)
-├── README.md # Project overview and documentation
+- app.ipynb # Dash web app integrating ML outputs and visualizations
+- E-COMMERCE DATA ... .ipynb # Notebook for dataset generation and ML experimentation
+- ecommerce_dataset.csv # Generated synthetic dataset with intentional inconsistencies
+- reprocessed_ecommerce_dataset.csv (optional) # Cleaned dataset (if saved separately)
+- README.md # Project overview and documentation
 
 
 ---
@@ -113,5 +113,5 @@ Run locally with:
 
 ## 📝 Author
 
-This project was developed as part of a comprehensive data science initiative to understand and predict customer behaviors in e-commerce. For contributions or collaborations, feel free to connect!
-e-mail : jaswanth2jaswanth@gmail.com
+-This project was developed as part of a comprehensive data science initiative to understand and predict customer behaviors in e-commerce. For contributions or collaborations, feel free to connect!
+-e-mail : jaswanth2jaswanth@gmail.com
